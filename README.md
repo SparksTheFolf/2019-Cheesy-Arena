@@ -1,4 +1,4 @@
-Cheesy Arena [![Build Status](https://travis-ci.org/Team254/cheesy-arena.svg?branch=master)](https://travis-ci.org/Team254/cheesy-arena)
+Cheesy Arena [![Build Status](https://github.com/nolant108/2019-Cheesy-Arena)](https://github.com/nolant108/2019-Cheesy-Arena)
 ============
 A field management system that just works.
 
@@ -75,21 +75,5 @@ Cheesy Arena is far from finished! You can help by:
 * Sending baked goods to [Pat](https://github.com/patfair)
 
 ## Acknowledgements
-[Several folks](https://github.com/Team254/cheesy-arena/graphs/contributors) have contributed pull requests. Thanks!
 
-In addition, the following individuals have contributed to make Cheesy Arena a reality:
 
-* Tom Bottiglieri
-* James Cerar
-* Kiet Chau
-* Travis Covington
-* Nick Eyre
-* Patrick Fairbank
-* Eugene Fang
-* Thad House
-* Karthik Kanagasabapathy
-* Ken Mitchell
-* Andrew Nabors
-* Jared Russell
-* Austin Schuh
-* Colin Wilson
